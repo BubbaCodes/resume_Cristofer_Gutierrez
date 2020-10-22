@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color:#f1f6f9;
+    
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #f1f6f9;
+    
+   }
+
+.topTitle {
+    color: white;
+    font-size: 5rem;
+    text-shadow: #14274e 1px 1px 3px ;
+}
+.bg-dark {
+    background-color: #14274e !important;
+}
+h1 + h2 {
+    color: #14274e;
+}
+h3 {
+    border-bottom:1px solid #9ba4b4 ;
+    color: #394867;
+}
+h4 {
+    color: #9ba4b4;
+}
+.col-md-3 img {
+    width: 10rem;
+    border-radius: 50%;
+}
+.socialMedia {
+    display: flex;
+    justify-content: center;
+
+}
+.linkedin {
+    font-size: 3rem;
+    margin: 0 2rem;
+}
+.facebook {
+    font-size: 3rem;
+    margin: 0 2rem;
+}
+.twitter {
+    font-size: 3rem;
+    margin: 0 2rem;
+}
+.btn-primary {
+    background-color:#14274e;
+}
+.btn-primary:hover {
+    background-color:#394867;
+}
+.card {
+    margin: 1rem 1rem;
+    background-color: white;
+}
+.email {
+    text-align: center;
+    font-size: 4rem;
+    display: flex;
+    margin: 0 2rem;
+    justify-content: center;
+}
+.tel {
+    text-align: center;
+    font-size: 4rem;
+    display: flex;
+    margin: 0 2rem;
+    justify-content: center;
+}

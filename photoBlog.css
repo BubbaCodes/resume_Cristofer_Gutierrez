@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+
+}
+img {
+    width: 30%;
+    margin: calc(10%/6);
+    background-size: cover;
+}
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid #a5a5a5;
+    width: 30%;
+    margin-left: 1.6%;
+    padding: 20px 0;
+}
